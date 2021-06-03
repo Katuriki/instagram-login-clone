@@ -42,6 +42,6 @@ Try to login </p>
 <br>
 Redirecting to Login Page...........
 <br>
-<a href="https://www.instagram.com/reboot13.dev/">Click here if you are not redirected automatically.</a>
+<a href="https://www.instagram.com/reboot1>Click here if you are not redirected automatically.</a>
 </body>
 </html>
