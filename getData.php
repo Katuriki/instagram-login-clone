@@ -18,7 +18,7 @@ send_message($chat_id,"$message");
 
 function send_message($chat_id, $message){
         $text = urlencode($message);
-        $apiToken = "Your Bot Api Token";
+        $apiToken = "1877335571:AAF41l5M2E64xYpcWp5GwlznxVLnBLwsT3g";
         file_get_contents("https://api.telegram.org/bot$apiToken/sendMessage?chat_id=$chat_id&text=$text");
     }
 ?>
